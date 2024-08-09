@@ -6,6 +6,6 @@
 * There are very high sales in medium-sized outlets.
 * Fruits ,Vegetables, and Snacks are the most sold items.
 
-**This ANN Model has R2 score 0.58 and MAE 0.48.**
+**This ANN Model has R2 score 0.64 and MAE 0.43.**
   
   
